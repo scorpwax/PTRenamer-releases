@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PT Renamer</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 15 Nov 2026 16:39:14 -0600</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.0.0/PT-Renamer-1.0.0.zip" length="14373654" type="application/octet-stream" sparkle:edSignature="XmdII/nKZAGSQRRJZozFblW89JtJS9tEHZIVBs9CV43gYoiEsSgmLRb6/kxI9kO+obAAAfhuGCKKDx1rQtWLAA=="/>
+        </item>
+    </channel>
+</rss>
