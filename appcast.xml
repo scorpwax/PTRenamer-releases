@@ -3,6 +3,38 @@
     <channel>
         <title>PT Renamer</title>
         <item>
+            <title>1.1.5</title>
+            <pubDate>Thu, 19 Nov 2026 19:39:58 -0600</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.5/PT-Renamer-1.1.5.zip" length="10816313" type="application/octet-stream" sparkle:edSignature="Q5fGTYiEKrvBdY7uMXeOZ/sk+0LT1Kncx2GlKVBx3yc7LKE0vxssaYM4ZL1KrOEt7OKCjJlRJZZCh1sJ+zG/AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.5/PT%20Renamer9-8.delta" sparkle:deltaFrom="8" length="871566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+qCY9LbpUjQe89orgXV/Gjbf2f6pb8eHSmtiZSkdfAg3NHq5t2/zb9Uk4mXfPC8qWLw44y07PLrTK2ASiF0jBA=="/>
+                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.5/PT%20Renamer9-7.delta" sparkle:deltaFrom="7" length="1078594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Oig3O6xTJwJKdSMpeQkLJvEnTaXHuyLFVsgcYHtlrVRJqaOcFXUG7+okUDUN12iz6c+XJwp/eeT9I9RBxwHnCQ=="/>
+                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.5/PT%20Renamer9-6.delta" sparkle:deltaFrom="6" length="1078274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BayNvzzqXdBkEzUh37+560KWSv2J2zyh6wUjdNwfKtB2vhrtr7lVGg3FwM9NBQrPbJjmi7SPrTArNKHSYlVbAw=="/>
+                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.5/PT%20Renamer9-5.delta" sparkle:deltaFrom="5" length="1172794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SR4H0P+nIe277gPQG3XqboNME6C/ysESZD7jyMYd3TbVOgnD8/MfasNuoo0BR6q6tvBnv6EMAnfPjZxx7OwRCw=="/>
+                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.5/PT%20Renamer9-4.delta" sparkle:deltaFrom="4" length="2467734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fsFsjJzMkoRI+1J+IQgV+rozyxCvhhDbPNaVdbPZWNmi9IsWIjBX2qxBXemLyHZaCZtKEZ2pkqSH78pO4zXoBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.1.4</title>
+            <pubDate>Thu, 19 Nov 2026 19:32:58 -0600</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.4/PT-Renamer-1.1.4.zip" length="10812882" type="application/octet-stream" sparkle:edSignature="vofOwgmgM7/i4136/HT+eQRoVj48VeEg9uXl2YxIhUg+w9a+JZxVLYh99fijs6dtkjOXM4v5NoVpFK9GXq5YBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.4/PT%20Renamer8-7.delta" sparkle:deltaFrom="7" length="989410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sRuSYX3w7P0YCIA0Xv91P6NvjQveUaOO7tTx4gxeOcTjAlwuNd7TuXEfxuHJUV1qmT4YsCuWhtGrhyRGVKQqCA=="/>
+                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.4/PT%20Renamer8-6.delta" sparkle:deltaFrom="6" length="1021782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/yeo+LhbhCSJWdvsE7LzHcPK+qAivJpnV9Yna6w1TOy+K6ecezMsXi7A7USIZyt+DXVf+n7iT2hKjkhkEPwrCg=="/>
+                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.4/PT%20Renamer8-5.delta" sparkle:deltaFrom="5" length="1167142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wSDoneNRgRoSW9o7W7SlyXdcpCdXW+2orLiA6z8Q0dXg+8ipbxAW20oXqRqmy/F7QfLTkHrRXma3FzvSy3InDA=="/>
+                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.4/PT%20Renamer8-4.delta" sparkle:deltaFrom="4" length="2503722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mc8XBLqLuOXi9Ty8l1m4XEeTBsoZNdclEDkxb+DwlFRe23BRjw67hf/OC/aUEpM5OIPKvaasUFlEdaFFuyHdBQ=="/>
+                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.4/PT%20Renamer8-3.delta" sparkle:deltaFrom="3" length="2562250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/u25J23qVMRLq68TueSaaxdFgtcK5uabci55wwF74yISkPKoA5R5Sm2GL0NtS2S5XiUQ7d/O9ASyoW9ValvWAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.3</title>
             <pubDate>Thu, 19 Nov 2026 17:24:53 -0600</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -16,35 +48,6 @@
                 <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.3/PT%20Renamer7-4.delta" sparkle:deltaFrom="4" length="2488358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gqNZFiLJNTRs88C18xRvvb6gJU9uD2K6OmDSLLCX7lY6ZugOkX9gnI4JYAv/zbgUxj2TA3vCCCqtFiFAJP3+Dg=="/>
                 <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.3/PT%20Renamer7-3.delta" sparkle:deltaFrom="3" length="2573730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G5BFRKQi3Ztyx4yrpwieqeOF+wwQgvpipLB/0WsEXUQGZ3OU5yZXQXcfgbdXkQQww2X7yfvsjFKizaVVcrbrAw=="/>
                 <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.3/PT%20Renamer7-2.delta" sparkle:deltaFrom="2" length="2585526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="98HuoutzOOKT6fhu1fpIioc3uED61EQJiPzEkTCfeWDnFgnWwGU+g2+qkM8n/JJfzzMsiPpSJCTq5Y/tv/VdDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1.2</title>
-            <pubDate>Thu, 19 Nov 2026 15:18:40 -0600</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.2/PT-Renamer-1.1.2.zip" length="10796665" type="application/octet-stream" sparkle:edSignature="+ReQAbJyXf3DgcUH0tEAOnoq4xpCfcv3MdAtLaZmZqdI4CUDBNfId7LEM7AZKYsAMveBe2iV0+2hdDhBAjSHAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.2/PT%20Renamer6-5.delta" sparkle:deltaFrom="5" length="991598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ymHNSBDcA3L18H6NebZGnsUjPWpUdYMKK5d9w8Ox0GSPqGlXDtOePJ69Eq7lo3ZusU5sONU4gUURrjjj1+3HDw=="/>
-                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.2/PT%20Renamer6-4.delta" sparkle:deltaFrom="4" length="2471262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gHGgmst2zkigh+ni//Q7Uxcw2zgfI9r6ml1sn8Z0z8JQXSUnA/zunSgaMwvXEICqzaKfN+eiS3dmTCJzoUUaAQ=="/>
-                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.2/PT%20Renamer6-3.delta" sparkle:deltaFrom="3" length="2572598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CTVBJlfqgMiFNQtbAEK2+uZfcPqVZxFw1hAowig6n4LZEHxlNV8ihovPVjtdCe01v7r3IWLDy7JXD9NPYelCCQ=="/>
-                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.2/PT%20Renamer6-2.delta" sparkle:deltaFrom="2" length="2588918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Q8453lKjigufGFvDCukMnd0Xq4XqN99vluBV0/yjbkXu3c5omgTF1RicJir2S0dR7LTIaxJGA1iW1j554R/CDg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1.1</title>
-            <pubDate>Wed, 18 Nov 2026 10:49:18 -0600</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.1/PT-Renamer-1.1.1.zip" length="10781979" type="application/octet-stream" sparkle:edSignature="BOhNWW0NwCpKL0TIy8ruo2wzY8MYu2BUxNnTdd5AkpXjUdV7J0+7UPpfsa/NV8h2mrxhdkB0m6dYmu0S/EUoAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.1/PT%20Renamer5-4.delta" sparkle:deltaFrom="4" length="2488378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VHr6b5f1vrnXIcjzw8m9c984zmCIOF0rf6yS0g1fUo+9GzC4KV7qcsWFb00hCsk8tO0yYMZ9wADlaC98+3izDg=="/>
-                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.1/PT%20Renamer5-3.delta" sparkle:deltaFrom="3" length="2548782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mYjL6zgpSVoOV4B26iigrKfSFFXigvWkS+48fngbzainLz5f8qp7dEQawtPGn3CvUzBKiQT5QyGZjlrcg12XAg=="/>
-                <enclosure url="https://github.com/scorpwax/PTRenamer-releases/releases/download/v1.1.1/PT%20Renamer5-2.delta" sparkle:deltaFrom="2" length="2589706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W0eMrZdJIQoJprP3XKorYV0WtFxGd27RS+Cw5FIx1MCLOj6ZGy+owrQI3CR9HP8oKbbpNpV6mTqS0oIzlLAEBw=="/>
             </sparkle:deltas>
         </item>
         <item>
